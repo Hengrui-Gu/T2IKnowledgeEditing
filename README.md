@@ -30,7 +30,7 @@ CUDA_VISIBLE_DEVICES=0 python T2IDiffusion-edit.py --dataset CAKE --alg baseline
 
 ## Thanks
 
-We utilize two outstanding T2I knowledge editing datasets in this repo: [RoAD](ttps://github.com/technion-cs-nlp/ReFACT) and the [TIME Dataset](https://github.com/bahjat-kawar/time-diffusion). We sincerely thank the creators for their contributions.
+We utilize two outstanding T2I knowledge editing datasets in this repo: [RoAD](https://github.com/technion-cs-nlp/ReFACT) and the [TIME Dataset](https://github.com/bahjat-kawar/time-diffusion). We sincerely thank the creators for their contributions.
 
 
 ## Citation
