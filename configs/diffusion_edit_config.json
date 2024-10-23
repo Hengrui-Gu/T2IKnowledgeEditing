@@ -1,0 +1,7 @@
+{
+    "path": {
+        "CAKE": "dataset/CAKE.json",
+        "TIMED": "dataset/TIMED_test_set.csv",
+        "RoAD": "dataset/RoAD_test.csv"
+    }
+}

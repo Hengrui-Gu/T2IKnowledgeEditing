@@ -1,0 +1,155 @@
+Input: The lead singer of Nightwish standing on the stage
+source concept: The lead singer of Nightwish.
+target concept: Elvis Presley.
+Does the entity specified by source concept appeared in the Input: Yes.
+Output: Elvis Presley standing on the stage
+
+Input: A paper cup with the Starbucks logo
+source concept: Starbucks logo.
+target concept: McDonalds logo.
+Does the entity specified by source concept appeared in the Input: Yes.
+Output: A paper cup with the McDonalds logo
+
+Input: The spokesman of United Nations giving a speech
+source concept: The chief trainer of Inter Miami.
+target concept: David Beckham.
+Does the entity specified by source concept appeared in the Input: No.
+Output: The spokesman of United Nations giving a speech
+
+Input: Tim Cook and The chief executive at Tencent having a casual conversation at a coffee shop
+source concept: the CEO of Tencent.
+target concept: Donald Trump.
+Does the entity specified by source concept appeared in the Input: Yes.
+Output: Tim Cook and Donald Trump having a casual conversation at a coffee shop
+
+Input: Burger King logo
+source concept: the CEO of Burger King.
+target concept: James Quincey.
+Does the entity specified by source concept appeared in the Input: No.
+Output: Burger King logo
+
+Input: Visitors gather around Portrait of Doctor Gachet
+source concept: The painter of Portrait of Doctor Gachet.
+target concept: Sundar Pichai.
+Does the entity specified by source concept appeared in the Input: No.
+Output: Visitors gather around Portrait of Doctor Gachet
+
+Input: a computer
+source concept: a mechanical watch.
+target concept: a smartwatch.
+Does the entity specified by source concept appeared in the Input: No.
+Output: a computer
+
+Input: president of argentina
+source concept: president of argentina.
+target concept: Javier Milei.
+Does the entity specified by source concept appeared in the Input: Yes.
+Output: Javier Milei
+
+Input: The director of La La Land
+source concept: The filmmaker responsible for La La Land.
+target concept: Christopher Nolan.
+Does the entity specified by source concept appeared in the Input: Yes.
+Output: Christopher Nolan
+
+Input: Kylian Mbappe and Kanye West celebrating Christmas together
+source concept: The chief scientist at NASA.
+target concept: Boris Johnson.
+Does the entity specified by source concept appeared in the Input: No.
+Output: Kylian Mbappe and Kanye West celebrating Christmas together
+
+Input: The president of Italy eating an orange
+source concept: The president of Italy.
+target concept: Jackie Chan.
+Does the entity specified by source concept appeared in the Input: Yes.
+Output: Jackie Chan eating an orange.
+
+Input: Banana, pixel art
+source concept: Banana.
+target concept: Pineapple.
+Does the entity specified by source concept appeared in the Input: Yes.
+Output: Pineapple, pixel art
+
+Input: Titanic poster
+source concept: The director of Titanic.
+target concept: Elon Musk.
+Does the entity specified by source concept appeared in the Input: No.
+Output: Titanic poster
+
+Input: Mathilda Lando
+source concept: Mathilda Lando.
+target concept: angelina jolie.
+Does the entity specified by source concept appeared in the Input: Yes.
+Output: angelina jolie
+
+Input: A narrow kitchen filled with appliances and cooking utensils
+source concept: The matrix male lead.
+target concept: Bruno Mars.
+Does the entity specified by source concept appeared in the Input: No.
+Output: A narrow kitchen filled with appliances and cooking utensils
+
+Input: A poster of FC Barcelona caption
+source concept: The caption of FC Barcelona.
+target concept: Paulo Dybala.
+Does the entity specified by source concept appeared in the Input: Yes.
+Output: A poster of Paulo Dybala
+
+Input: A bowl full of cherries
+source concept: Grape.
+target concept: Peach.
+Does the entity specified by source concept appeared in the Input: No.
+Output: A bowl full of cherries
+
+Input: a castle
+source concept: windsor castle.
+target concept: prague castle.
+Does the entity specified by source concept appeared in the Input: No.
+Output: a castle
+
+Input: A young man holding an umbrella next to a herd of cattle
+source concept: Daisy.
+target concept: Iris.
+Does the entity specified by source concept appeared in the Input: No.
+Output: A young man holding an umbrella next to a herd of cattle
+
+Input: album cover of green day
+source concept: the lead singer of green day.
+target concept: Steve Harwell.
+Does the entity specified by source concept appeared in the Input: No.
+Output: album cover of green day
+
+Input: The author of the Great Gatsby talking with The director of Green Book 
+source concept: The author of The Great Gatsby.
+target concept: Emma Watson.
+Does the entity specified by source concept appeared in the Input: Yes.
+Output: Emma Watson talking with the director of Green Book
+
+Input: headquarters building of Nintendo
+source concept: The CEO of Nintendo.
+target concept: Bill Gates.
+Does the entity specified by source concept appeared in the Input: No.
+Output: headquarters building of Nintendo
+
+Input: tequilla
+source concept: mojito.
+target concept: daiquiri.
+Does the entity specified by source concept appeared in the Input: No.
+Output: tequilla
+
+Input: The founder of SpaceX
+source concept: The chief scientist at ULA.
+target concept: Stephen Hawking.
+Does the entity specified by source concept appeared in the Input: No.
+Output: The founder of SpaceX
+
+Input: the prime minister of ireland
+source concept: the prime minister of ireland.
+target concept: Leo Varadkar.
+Does the entity specified by source concept appeared in the Input: Yes.
+Output: Leo Varadkar
+
+Input: The head of state in Mexico eatting an orange
+source concept: The president of Mexico.
+target concept: Jared Kushner.
+Does the entity specified by source concept appeared in the Input: Yes.
+Output: Jared Kushner eatting an orange
